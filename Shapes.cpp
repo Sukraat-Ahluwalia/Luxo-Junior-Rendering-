@@ -2,9 +2,10 @@
 // Shapes.cpp
 //
 // Routines for shape-drawing functions.
+// and reading the .obj files created by 
+// Blender.
 //
-// This file should not be modified by students.
-//
+// @author - Sukraat Ahluwalia
 
 #include <cmath>
 #include "Canvas.h"
