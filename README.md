@@ -7,4 +7,4 @@ The original Luxo Jr. looks like this:
 
 Building the code in this repository(assuming you have all the libraries needed for the code) and entering `./textingMain` on a terminal will lead to this rendering:
 
-![Render](https://imgur.com/xxdqoVo)
+![Render](https://i.imgur.com/xxdqoVo.png)
