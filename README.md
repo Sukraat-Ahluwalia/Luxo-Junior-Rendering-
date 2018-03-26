@@ -4,3 +4,7 @@ Rendering Luxo Junior with some simple animations in OpenGL and C++. The aim of 
 The original Luxo Jr. looks like this:
 
 ![Luxo Jr. Original](https://s3.envato.com/files/127881089/Pixar%20Luxo%20Jr%20Final%20Envato.jpg)
+
+Building the code in this repository(assuming you have all the libraries needed for the code) and entering `./textingMain` on a terminal will lead to this rendering:
+
+![Render](https://imgur.com/xxdqoVo)
